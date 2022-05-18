@@ -1,0 +1,20 @@
+liides;interface
+kapseldus;encapsulation
+pärimine; inheritance
+polümorfism; polymorphism
+ülekate;overwriting
+järjekord;queue
+avaldis;expression
+massiiv;array
+muutuja;variable
+mähisklass;wrapper
+voo;stream
+puhver;buffer
+erind;exception
+lõim;thread
+magasin;heap
+algtüüb;primitive
+valikulause;conditional statement
+sündmus;event
+töötlemine;proccessing
+andmestruktuur;data structure
